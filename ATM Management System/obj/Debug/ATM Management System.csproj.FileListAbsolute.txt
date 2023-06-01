@@ -1,0 +1,40 @@
+E:\ATM\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+E:\ATM\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe
+E:\ATM\ATM Management System\ATM Management System\bin\Debug\ATM Management System.pdb
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.SuggestedBindingRedirects.cache
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Account.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Splash.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.exe
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.pdb
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.ChangePin.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Deposit.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Fastcash.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Home.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Login.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Ministatement.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Withdraw.resources
+E:\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.AccInfo.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\bin\Debug\ATM Management System.pdb
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.SuggestedBindingRedirects.cache
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.AccInfo.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Account.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.ChangePin.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Deposit.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Fastcash.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Home.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Login.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Ministatement.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Splash.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Withdraw.resources
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.exe
+F:\C#\ATM\ATM\ATM Management System\ATM Management System\obj\Debug\ATM Management System.pdb
